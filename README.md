@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>AWS Account Management</b>
   - [Setup An AWS Account](https://github.com/mattcloudsec/SetUpAnAWSAccount)
   - [Host a Website on Amazon S3](https://github.com/mattcloudsec/HostAWebsiteOnAmazonS3)
   - [Cloud Security with AWS IAM](https://github.com/mattcloudsec/CloudSecurityWithAWSIAM)
