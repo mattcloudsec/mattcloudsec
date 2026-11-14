@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Setup An AWS Account](https://nextwork.ai/matthewharris/docs/90e42921-e1f4-5c44-8a1f-394b21d79093)
+  - [Setup An AWS Account](https://github.com/mattcloudsec/SetUpAnAWSAccount)
 
 
 
