@@ -24,17 +24,13 @@ networking, and cloud security.
   -------------------------------------------------------------------------------------------------------
   Project                                                             Skills Demonstrated
   ------------------------------------------------------------------- -----------------------------------
-  [AWS Account                                                        AWS account administration, MFA,
-  Setup](https://github.com/mattcloudsec/SetUpAnAWSAccount)           billing alerts
+  [Set Up An AWS Account](https://github.com/mattcloudsec/SetUpAnAWSAccount) - AWS account configuration, IAM security, MFA, and billing monitoring.
 
-  [Host a Website on Amazon                                           Amazon S3, static website hosting,
-  S3](https://github.com/mattcloudsec/HostAWebsiteOnAmazonS3)         bucket policies
+  [Host a Website on Amazon S3](https://github.com/mattcloudsec/HostAWebsiteOnAmazonS3) - Deploying a static website using Amazon S3 and exploring bucket-level access controls.
 
-  [Cloud Security with AWS                                            IAM users, groups, JSON policies,
-  IAM](https://github.com/mattcloudsec/CloudSecurityWithAWSIAM)       permissions testing
+  [Cloud Security with AWS IAM](https://github.com/mattcloudsec/CloudSecurityWithAWSIAM) - AWS IAM implementation demonstrating users, groups, JSON policies, and permission validation.
 
-  [Build a Virtual Private                                            Amazon VPC, IPv4, CIDR, subnetting,
-  Cloud](https://github.com/mattcloudsec/BuildAVirtualPrivateCloud)   Internet Gateway
+  [Build a Virtual Private Cloud](https://github.com/mattcloudsec/BuildAVirtualPrivateCloud) - Building an AWS VPC with IPv4 addressing, subnet configuration, and Internet Gateway attachment.
   -------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
